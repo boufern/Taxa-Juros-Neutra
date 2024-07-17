@@ -1,4 +1,4 @@
-### Modelo de Extimação da Taxa Neutra de Juros para Economia Brasileira no Primeiro Trimestre de 2024
+### Modelo de Estimação da Taxa Neutra de Juros para Economia Brasileira no Primeiro Trimestre de 2024
 -------------------------------------------------------------------------------------------------------
  
 Estimo o modelo semi-estrutural, cuja metodologia foi concebida por [Holston, Laubach and Williams (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4482053). Esse modelo é 
